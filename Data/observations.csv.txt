@@ -1,0 +1,11 @@
+observation_id,species_name,common_name,date_observed,location,image_url,notes,submitted_by
+1,Panthera pardus,Leopard,2025-05-13,Trail 5,,Seen walking near rocks at dusk,Ali
+2,Psittacula krameri,Rose-ringed Parakeet,2025-05-10,Rawal Lake,,Feeding on fruit trees,Mina
+3,Parus major,Great Tit,2025-05-11,Daman-e-Koh,,Seen in large tree,Asad
+4,Felis chaus,Jungle Cat,2025-05-09,Trail 6,,Crossed the path quickly,Sara
+5,Columba livia,Rock Dove,2025-05-12,Faisal Mosque Gardens,,Group seen near fountains,Ali
+6,Acacia modesta,Phulai Tree,2025-05-14,Margalla Hills,,Growing along trail,Rehan
+7,Hystrix indica,Indian Crested Porcupine,2025-05-13,Trail 3,,Observed during night hike,Mina
+8,Dendrocitta formosae,Yellow-billed Blue Magpie,2025-05-11,Pir Sohawa,,Calling loudly on a branch,Ali
+9,Sus scrofa,Wild Boar,2025-05-15,Near Trail 6 Stream,,Ran across the water,Mina
+10,Himalayan Bulbul,,2025-05-14,Shakarparian,,Chirping near the viewpoint,Sara
